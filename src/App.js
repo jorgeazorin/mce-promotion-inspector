@@ -87,7 +87,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>BTM Promotions</h2>
+          <h2>MCE Promotions</h2>
           <table>
             <thead>
               <tr>
