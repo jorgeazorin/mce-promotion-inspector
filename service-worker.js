@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mce-promotion-inspector/precache-manifest.7bad90cd00304a97520f61dd317ff6e4.js"
+  "/mce-promotion-inspector/precache-manifest.180f424a6ee6edb71488ddcff6065f4d.js"
 );
 
 self.addEventListener('message', (event) => {
