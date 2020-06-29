@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c83b38c452f72a3a4c19d2ed02e50dbd",
+    "revision": "56c9e26cc547591823d36e2fbc882a2d",
     "url": "/mce-promotion-inspector/index.html"
   },
   {
-    "revision": "ad45600cd1fb6bb9649d",
-    "url": "/mce-promotion-inspector/static/css/main.8b32e31b.chunk.css"
+    "revision": "cb335583a8d9914ee9a3",
+    "url": "/mce-promotion-inspector/static/css/main.34892fcc.chunk.css"
   },
   {
     "revision": "1e14fad7b579a5b6f43b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mce-promotion-inspector/static/js/2.ae1ee8a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad45600cd1fb6bb9649d",
+    "revision": "cb335583a8d9914ee9a3",
     "url": "/mce-promotion-inspector/static/js/main.4416cfc8.chunk.js"
   },
   {
