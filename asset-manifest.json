@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mce-promotion-inspector/static/css/main.8b32e31b.chunk.css",
+    "main.js": "/mce-promotion-inspector/static/js/main.e2d63feb.chunk.js",
+    "main.js.map": "/mce-promotion-inspector/static/js/main.e2d63feb.chunk.js.map",
+    "runtime-main.js": "/mce-promotion-inspector/static/js/runtime-main.423c0610.js",
+    "runtime-main.js.map": "/mce-promotion-inspector/static/js/runtime-main.423c0610.js.map",
+    "static/js/2.ae1ee8a7.chunk.js": "/mce-promotion-inspector/static/js/2.ae1ee8a7.chunk.js",
+    "static/js/2.ae1ee8a7.chunk.js.map": "/mce-promotion-inspector/static/js/2.ae1ee8a7.chunk.js.map",
+    "index.html": "/mce-promotion-inspector/index.html",
+    "precache-manifest.7bad90cd00304a97520f61dd317ff6e4.js": "/mce-promotion-inspector/precache-manifest.7bad90cd00304a97520f61dd317ff6e4.js",
+    "service-worker.js": "/mce-promotion-inspector/service-worker.js",
+    "static/css/main.8b32e31b.chunk.css.map": "/mce-promotion-inspector/static/css/main.8b32e31b.chunk.css.map",
+    "static/js/2.ae1ee8a7.chunk.js.LICENSE.txt": "/mce-promotion-inspector/static/js/2.ae1ee8a7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mce-promotion-inspector/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.423c0610.js",
+    "static/js/2.ae1ee8a7.chunk.js",
+    "static/css/main.8b32e31b.chunk.css",
+    "static/js/main.e2d63feb.chunk.js"
+  ]
+}
