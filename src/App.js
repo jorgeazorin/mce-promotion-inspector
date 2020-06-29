@@ -4,7 +4,7 @@ import './App.css';
 import moment from 'moment';
 import 'moment/locale/es';
 
-const server = "https://www.botemania.es"
+const server = "https://www.monopolycasino.es"
 const promoPageLink = "/api/config/promotions/v2/promotions-page.json";
 moment().locale('es')
 
